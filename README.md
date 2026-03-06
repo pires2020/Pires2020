@@ -1,16 +1,30 @@
-## Hi there 👋
+## Olá! 👋
 
-<!--
-**pires2020/Pires2020** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é **Lucas Antunes Pires** e atualmente sou estudante de **Ciência da Computação (Bacharelado)** na **FURB – Universidade Regional de Blumenau**.
 
-Here are some ideas to get you started:
+Tenho interesse nas áreas de **programação, desenvolvimento web e cibersegurança**. Estou sempre buscando aprender novas tecnologias e aprimorar minhas habilidades na área de tecnologia.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Sobre mim
+
+* 🎓 Estudante de **Ciência da Computação na FURB**
+* 💻 Conhecimento em **Java, Python e Desenvolvimento Web**
+* 🔐 Interesse em **Cybersecurity / Segurança da Informação**
+* 🧠 Ex-aluno do **Projeto Elite (CIB)** com formação em programação
+* 📚 Sempre aprendendo e desenvolvendo novos projetos
+
+### 🛠️ Tecnologias e conhecimentos
+
+* Java
+* Python
+* Desenvolvimento Web (HTML, CSS, JavaScript)
+* Fundamentos de Cybersecurity
+
+### 🌱 Atualmente estudando
+
+* Programação e estruturas de dados
+* Segurança da informação
+* Desenvolvimento de software
+
+### 📫 Contato
+
+* LinkedIn: https://www.linkedin.com/in/lucas-antunes-762a69231
